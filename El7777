@@ -48,6 +48,8 @@ http://103.55.144.46/hls/sonyten2.m3u8
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Eurosports
 http://103.55.144.46/hls/euro.m3u8
+#EXTINF:-1,Ten Sports PK
+http://103.55.144.46/hls/ten.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery HD
 http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
