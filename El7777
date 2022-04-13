@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Live 1
+http://178.128.212.189:8081/TPL1/SLOW/playlist.m3u8
+#EXTINF:-1,Live 2
+http://178.128.212.189:8081/TPL2/SLOW/playlist.m3u8
+#EXTINF:-1,Live 3
+http://178.128.212.189:8081/TPL3/SLOW/playlist.m3u8
 #EXTINF:-1,T Sports
 http://30.30.30.30:8081/tschannel/channel1/chunks.m3u8
 #EXTINF:-1,T Sports
