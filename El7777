@@ -107,6 +107,8 @@ http://103.55.144.46/hls/mn+.m3u8
 http://103.55.144.46/hls/mnx-hd.m3u8
 #EXTINF:-1,Star World
 http://103.55.144.46/hls/star-worldhd.m3u8
+#EXTINF:-1,AXN
+http://103.55.144.46/hls/axn.m3u8
 #EXTINF:-1,Sony TV
 http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1,Star Plus
