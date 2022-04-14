@@ -14,6 +14,8 @@ http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:-1,Live 7
 http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:-1,T Sports
+http://103.70.140.27:8080/hls/tsports.m3u8
+#EXTINF:-1,T Sports
 http://30.30.30.30:8081/tschannel/channel1/chunks.m3u8
 #EXTINF:-1,T Sports
 http://30.30.30.30:8081/tschannel/channel2/chunks.m3u8
