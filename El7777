@@ -47,7 +47,7 @@ http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1,Jalsha Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
-#EXTINF:-1, Star Sports 1
+#EXTINF:-1,Star Sports 1
 http://103.5.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
@@ -69,6 +69,8 @@ http://103.55.144.46/hls/sonyten3.m3u8
 http://103.55.144.46/hls/euro.m3u8
 #EXTINF:-1,Ten Sports PK
 http://103.55.144.46/hls/ten.m3u8
+#EXTINF:-1,PTV Sports
+http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1,Discovery HD
 http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1,Net Geo HD
