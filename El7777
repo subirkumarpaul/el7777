@@ -111,8 +111,10 @@ http://103.55.144.46/hls/animalplanent.m3u8
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1,Net Geo Wild
 http://103.55.144.46/hls/wild.m3u8
-#EXTINF:-1,Travel XP HD
+#EXTINF:-1,Travel XP HD (Bangla)
 http://103.55.144.46/hls/travelxp.m3u8
+#EXTINF:-1,Travel XP HD (English)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,SONY BBC Earth
 http://103.55.144.46m/hls/bbcearth.m3u8
 #EXTINF:-1,TLC
