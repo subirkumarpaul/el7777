@@ -286,7 +286,8 @@ http://208.86.19.13:81/624.stream/index.m3u8
 #EXTINF:-1,ATN BANGLA
 http://208.86.19.13:81/626.stream/index.m3u8
 #EXTINF:-1,BTV WORLD BD
-http://208.86.19.13:81/627.stream/index.m3u8 #EXTINF:-1,DESH TV
+http://208.86.19.13:81/627.stream/index.m3u8 
+#EXTINF:-1,DESH TV
 http://208.86.19.13:81/629.stream/index.m3u8
 #EXTINF:-1,AB TV BD
 http://208.86.19.13:81/501.stream/index.m3u8
