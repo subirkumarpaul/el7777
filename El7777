@@ -80,7 +80,7 @@ http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:-1,&Pictures
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1,Star Sports 1
-http://103.5.144.46/hls/stersports1hd.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1,Star Sports 3
