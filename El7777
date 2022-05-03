@@ -2,7 +2,7 @@
 #EXTINF:-1,Live 1
 http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
 #EXTINF:-1,Live 2
-http://103.135.133.3/hls/stream3.m3u8
+http://103.136.200.246:8082/Local-Sports/index.m3u8
 #EXTINF:-1,T Sports
 http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1,T Sports
