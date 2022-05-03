@@ -19,7 +19,7 @@ http://103.55.144.46/hls/t-sports.m3u8
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1,Gazi TV(amrbd)
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1,ATN Bangla(amrbd)
 http://103.136.200.246:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1,Somoy TV
 http://103.55.144.46/hls/somoy.m3u8
