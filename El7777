@@ -85,6 +85,8 @@ http://103.55.144.46/hls/utvaction.m3u8
 http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:-1,Star Gold HD
 http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:-1,Star Gold(amrbd)
+http://103.136.200.246:8082/StarGold/index.m3u8
 #EXTINF:-1,Star Gold 2
 http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:-1,SONY Max
