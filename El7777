@@ -89,6 +89,8 @@ http://103.55.144.46/hls/stargold.m3u8
 http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:-1,SONY Max
 http://103.55.144.46/hls/sonymax.m3u8
+#EXTINF:-1,SONY Max(amrbd)
+http://103.136.200.246:8082/Sony-Max/index.m3u8
 #EXTINF:-1,SONY Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:-1,Colors Cineplex
