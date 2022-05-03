@@ -19,8 +19,8 @@ http://103.55.144.46/hls/t-sports.m3u8
 http://103.167.190.250/hls/t-sports.m3u8
 #EXTINF:-1,Gazi TV
 http://103.55.144.46/hls/Gazi-TV.m3u8
-
-http://103.167.190.250/hls/t-.m3u8
+#EXTINF:-1,Gazi TV
+http://103.167.190.250/hls/Gazi-TV.m3u8
 #EXTINF:-1,Gazi TV(amrbd)
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1,ATN Bangla(amrbd)
