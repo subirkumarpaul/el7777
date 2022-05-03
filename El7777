@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Live 1
-http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
+http://stream.accessnetbd.com/hls/access-tsports.m3u8
 #EXTINF:-1,Live 2
 http://103.136.200.246:8082/Local-Sports/index.m3u8
 #EXTINF:-1,T Sports
@@ -41,6 +41,8 @@ http://103.55.144.46m/hls/colorsbangla.m3u8
 http://103.136.200.246:8082/colorsbangla/index.m3u8
 #EXTINF:-1,Sun Bangla
 http://103.55.144.46/hls/sunbangla.m3u8
+#EXTINF:-1,Sun Bangla
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1,Colors Bangla Cinema
@@ -51,6 +53,8 @@ http://103.55.144.46/hls/jalshamovies.m3u8
 http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #EXTINF:-1,Sony TV
 http://103.55.144.46/hls/sonyen.m3u8
+#EXTINF:-1,Sony TV
+http://89.187.162.109/SONYHD/mono.m3u8
 #EXTINF:-1,Star Plus
 http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1,Colors
@@ -81,6 +85,8 @@ http://89.187.162.109/SONYPAL/mono.m3u8
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1,Star Sports 1
 http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1,Star Sports 1 Hinde HD
+http://89.187.162.109/STARSPORTS1HINDIHD/index.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1,Star Sports 3
@@ -157,6 +163,8 @@ http://103.55.144.46/hls/bindass.m3u8
 http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1,9XM
 http://103.55.144.46/hls/9xm.m3u8
+#EXTINF:-1,Zing
+http://89.187.162.109/ZING/mono.m3u8
 #EXTINF:-1,Aljazeera
 http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF:-1,BBC World
