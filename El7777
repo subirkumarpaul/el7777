@@ -35,6 +35,10 @@ http://103.55.144.46/hls/indepen.m3u8
 http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1,Masranga TV
 http://103.55.144.46/masranga.m3u8
+#EXTINF:-1,NTV
+http://103.136.200.246:8082/Ntv/index.m3u8
+#EXTINF:-1,RTV
+http://103.136.200.246:8082/RTV/index.m3u8
 #EXTINF:-1,Nexus TV HD
 http://103.55.144.46/hls/nexus.m3u8
 #EXTINF:-1,Sony Aath
