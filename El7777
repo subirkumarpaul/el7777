@@ -3,8 +3,12 @@
 http://stream.accessnetbd.com/hls/access-tsports.m3u8
 #EXTINF:-1,Live 2
 http://103.136.200.246:8082/Local-Sports/index.m3u8
-#EXTINF:-1,T Sports
-http://103.70.140.27:8080/hls/tsports.m3u8
+#EXTINF:-1,Live 3
+http://stream.accessnetbd.com/hls/sky12.m3u8
+#EXTINF:-1,Live 4
+http://103.136.200.246:8082/live/Star-Sports1/chunks.m3u8
+#EXTINF:-1,Live 5
+http://15.1.1.10:8082/gtv/index.m3u8
 #EXTINF:-1,T Sports
 http://30.30.30.30:8081/tschannel/channel1/chunks.m3u8
 #EXTINF:-1,T Sports
