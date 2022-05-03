@@ -1,21 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Live 1
-http://172.16.128.250:8081/live/Tsports2/chunks.m3u8
-#EXTINF:-1,Live 2
-http://172.16.128.250:8081/live/gazitv/chunks.m3u8
-#EXTINF:-1,Live 3
-http://178.128.212.189:8081/TPL3/SLOW/playlist.m3u8
-#EXTINF:-1,Live 4
-http://103.135.133.3/hls/stream2.m3u8
-#EXTINF:-1,Live 5
-http://172.22.22.76/live/feed1001/index.m3u8
-#EXTINF:-1,Live 6
-http://172.22.22.76/live/feed1002/index.m3u8
-#EXTINF:-1,Live 7
-http://172.22.22.76/live/feed1003/index.m3u8
-#EXTINF:-1,Live 8
 http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
-#EXTINF:-1,Live 9
+#EXTINF:-1,Live 2
 http://103.135.133.3/hls/stream3.m3u8
 #EXTINF:-1,T Sports
 http://103.70.140.27:8080/hls/tsports.m3u8
