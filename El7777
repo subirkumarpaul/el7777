@@ -67,6 +67,8 @@ http://103.55.144.46/hls/jalshamovies.m3u8
 http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #EXTINF:-1,Sony TV
 http://103.55.144.46/hls/sonyen.m3u8
+#EXTINF:-1,Sony TV(amrbd)
+http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:-1,Sony TV
 http://89.187.162.109/SONYHD/mono.m3u8
 #EXTINF:-1,Star Plus
