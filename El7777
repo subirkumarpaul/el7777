@@ -29,6 +29,8 @@ http://103.55.144.46/hls/Sony_Aath.m3u8
 http://103.136.200.246:8082/Sonyaath/index.m3u8
 #EXTINF:-1,Star Jalsha HD
 http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://89.187.162.109/STARJALSHA/mono.m3u8
 #EXTINF:-1,Zee Bangla HD
 http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1,Zee Bangla HD(amrbd)
@@ -73,6 +75,8 @@ http://103.55.144.46/hls/sony-maxhd.m3u8
 http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1,Goldmines Movies
 http://103.55.144.46/hls/dhin.m3u8
+#EXTINF:-1,Enter 10
+http://89.187.162.109/SONYPAL/mono.m3u8
 #EXTINF:-1,&Pictures
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1,Star Sports 1
