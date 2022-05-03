@@ -25,8 +25,10 @@ http://103.136.200.246:8082/ATN-Bangla/index.m3u8
 http://103.55.144.46/hls/somoy.m3u8
 #EXTINF:-1,Somoy TV(amrbd)
 http://103.136.200.246:8082/Somoy-TV/index.m3u8
-#EXTINF:-1,Ekahtor TV(amarbd)
+#EXTINF:-1,Ekahtor TV(amrbd)
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
+#EXTINF:-1,ATN News(amrbd)
+http://103.136.200.246:8082/Atn-News/index.m3u8
 #EXTINF:-1,Independent TV
 http://103.55.144.46/hls/indepen.m3u8
 #EXTINF:-1,Channel I
