@@ -47,8 +47,12 @@ http://103.136.200.246:8082/Ntv/index.m3u8
 http://103.136.200.246:8082/RTV/index.m3u8
 #EXTINF:-1,SATV(amrbd)
 http://103.136.200.246:8082/SATV/index.m3u8
+#EXTINF:-1,Bangla Vision(amrbd)
+http://103.136.200.246:8082/BanglaVision/index.m3u8
 #EXTINF:-1,Nagorik TV(amrbd)
 http://103.136.200.246:8082/Nagorik-TV/index.m3u8
+#EXTINF:-1,Boishakhi TV(amrbd)
+http://103.136.200.246:8082/Boishakhi/index.m3u8
 #EXTINF:-1,Nexus TV HD
 http://103.55.144.46/hls/nexus.m3u8
 #EXTINF:-1,Sony Aath
@@ -87,6 +91,8 @@ http://103.55.144.46/hls/sonyen.m3u8
 http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:-1,Sony TV
 http://89.187.162.109/SONYHD/mono.m3u8
+#EXTINF:-1,Sony Sab(amrbd)
+http://103.136.200.246:8082/Sony_Sab/index.m3u8
 #EXTINF:-1,Star Plus
 http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1,Colors
