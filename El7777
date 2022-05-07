@@ -174,7 +174,7 @@ http://103.136.200.246:8082/SonySix/index.m3u8
 #EXTINF:-1,SONY Ten 1
 http://103.55.144.46/hls/sonyten1.m3u8
 #EXTINF:-1,SONY Ten 1(amrbd)
-http://103.136.200.246:8082/Tenq/index.m3u8
+http://103.136.200.246:8082/Ten1/index.m3u8
 #EXTINF:-1,SONY Ten 2
 http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1,SONY Ten 2(amrbd)
